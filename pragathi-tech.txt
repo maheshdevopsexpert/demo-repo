@@ -1,3 +1,4 @@
 Welcome to MCD Training
 We just started with Basic tool GIT VCS
 After GIt we are going to learn CICD
+After CICD we will learn AWS
